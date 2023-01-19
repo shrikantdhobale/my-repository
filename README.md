@@ -1,2 +1,2 @@
 # my-repository
-shrikant dhobale git reository for demonstration
+shrikant dhobale git repository for demonstration
